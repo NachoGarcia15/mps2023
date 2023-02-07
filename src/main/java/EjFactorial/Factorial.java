@@ -18,8 +18,12 @@ public class Factorial {
         return result;
     }
 
-    void f(){
+
+    void f() {
         //umyum
+    }
+    void g(){
+        //dfgdfg
     }
 }
 /*Maven
