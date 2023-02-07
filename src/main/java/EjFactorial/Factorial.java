@@ -17,6 +17,9 @@ public class Factorial {
         }
         return result;
     }
+    void g(){
+        //dfgdfg
+    }
 }
 /*Maven
 -------
