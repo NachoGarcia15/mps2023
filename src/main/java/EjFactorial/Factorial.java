@@ -1,5 +1,7 @@
 package EjFactorial;
-
+/*
+    Comentario
+*/
 public class Factorial {
     public int compute(int value){
         int result = 1;
