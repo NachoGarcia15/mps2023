@@ -17,6 +17,10 @@ public class Factorial {
         }
         return result;
     }
+
+    void f(){
+        //umyum
+    }
 }
 /*Maven
 -------
